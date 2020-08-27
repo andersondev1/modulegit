@@ -1,3 +1,1 @@
-Hello Git
-
-lorem ipsum dolor
+My first system in git altered and update
